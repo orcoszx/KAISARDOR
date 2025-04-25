@@ -32,7 +32,7 @@ const CONFIG = {
     },
     dorConfig: {
         apiUrl: 'https://api.tuyull.my.id/api/v1/dor',
-        apiKey: process.env.0a1ccba4-e6fc-498c-af2f-5f889c765aaa
+        apiKey: process.env.DOR_API_KEY
     },
     otpConfig: {
         requestUrl: 'https://api.tuyull.my.id/api/v1/minta-otp',
